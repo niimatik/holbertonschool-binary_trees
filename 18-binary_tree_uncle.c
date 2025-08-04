@@ -3,7 +3,7 @@
 binary_tree_t *sibling(binary_tree_t *node);
 
 /**
- * tree_uncle - finds the uncle of a node in a binary tree
+ * binary_tree_uncle - finds the uncle of a node in a binary tree
  *
  * @node: node to find uncle for
  *
