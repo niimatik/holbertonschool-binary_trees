@@ -2,6 +2,7 @@
 
 /**
  * binary_tree_insert_right - insert a node as the left child of another node
+ *
  * @parent: the node to insert the new node in
  * @value: the new node to add
  *
